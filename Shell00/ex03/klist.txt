@@ -1,0 +1,7 @@
+Credentials cache: API:1424298
+        Principal: vferrare@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Sep 30 14:55:03 2019  Oct  1 00:55:04 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Sep 30 14:55:04 2019  Oct  1 00:55:04 2019  HTTP/student-storage.42sp.org.br@42SP.ORG.BR
+Sep 30 18:31:24 2019  Oct  1 00:55:04 2019  host/vogsphere.42sp.org.br@42SP.ORG.BR
